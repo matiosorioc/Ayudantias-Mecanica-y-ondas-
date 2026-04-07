@@ -1,1 +1,1 @@
-# Ayudant-as-Mec-nica-y-ondas-
+# Ayudantias-Mecanica-y-ondas-
