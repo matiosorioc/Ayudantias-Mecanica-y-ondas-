@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.5)  5 APR 2026 23:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.5)  7 APR 2026 04:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -330,35 +330,7 @@ Overfull \hbox (41.23505pt too wide) in paragraph at lines 33--42
 $[]$ $[]$ 
  []
 
-c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex:63: Missing $ inserted.
-<inserted text> 
-                $
-l.63 ...xtcolor{red}{[Control 1 2025 -10]} \varphi
-                                                   \chi \lambda
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex:64: LaTeX Error: \mathbb allowed only in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.64 $\mathbb
-             {R}$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex:65: Missing $ inserted.
-<inserted text> 
-                $
-l.65 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-[1
+(Preguntas/P1.tex) [1
 
 {C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes/isotipo-uandes.png>] (C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\main.aux
 LaTeX Info: Redefining \. on input line 8.
@@ -370,17 +342,17 @@ L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5473 strings out of 467870
- 89077 string characters out of 5417388
+ 5481 strings out of 467870
+ 89312 string characters out of 5417388
  502370 words of memory out of 5000000
- 34281 multiletter control sequences out of 15000+600000
+ 34284 multiletter control sequences out of 15000+600000
  631262 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,65p,274b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Matías\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\main.pdf (1 page, 116987 bytes).
+ <C:\Users\Matías\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\main.pdf (1 page, 108104 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
