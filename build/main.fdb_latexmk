@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775549618.08485 "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex" "build/main.pdf" "main" 1775549621.17564 0
-  "C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1775445232.01838 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1775554002.76981 "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex" "build/main.pdf" "main" 1775554006.59141 2
+  "C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1775549738.62403 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Matías/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1775442656.60219 12124 0566993109f2a31e4e9ede5bcefb885d ""
   "C:/Users/Matías/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1775442650.50353 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/Matías/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1775442653.70028 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -63,11 +63,12 @@
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/latex/tools/enumerate.sty" 1761901070 3468 f21ceb3448a22fec45299f924e7fc48b ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "C:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/build/main.aux" 1775549620.90904 232 73e76a51b3ab6978a073af3f7982faa6 ""
-  "Preguntas/P1.tex" 1775549525.15526 56 34e4b1f0ec4bde5c14bfe6afc14f6d8b ""
-  "build/main.aux" 1775549620.90904 232 73e76a51b3ab6978a073af3f7982faa6 "pdflatex"
-  "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex" 1775549616.9698 1516 2daf6ee7534fa72b7a1fee9402a42705 ""
+  "C:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/build/main.aux" 1775554006.27895 232 73e76a51b3ab6978a073af3f7982faa6 ""
+  "Preguntas/P1.tex" 1775553993.39484 883 741fdff483deb34e54e14bdee7d6f77b ""
+  "build/main.aux" 1775554006.27895 232 73e76a51b3ab6978a073af3f7982faa6 "pdflatex"
+  "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex" 1775553993.30854 1564 bc04673aeaa1bd3955f8293df070923d ""
   "imagenes/isotipo-uandes.png" 1775370947.03153 71686 8413c3f33fbe930283f91d84ecd48a68 ""
+  "main.aux" 1775553978.83302 232 73e76a51b3ab6978a073af3f7982faa6 ""
   (generated)
   "build/main.aux"
   "build/main.log"
