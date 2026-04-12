@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775554002.76981 "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex" "build/main.pdf" "main" 1775554006.59141 2
-  "C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1775549738.62403 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1775972025.57659 "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex" "build/main.pdf" "main" 1775972029.41549 0
+  "C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1775876848.05592 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Matías/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1775442656.60219 12124 0566993109f2a31e4e9ede5bcefb885d ""
   "C:/Users/Matías/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1775442650.50353 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/Matías/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1775442653.70028 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -18,6 +18,8 @@
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsl10.tfm" 1136765053 1508 efecb4a315fe0975509670a272d75ef5 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -63,12 +65,11 @@
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/latex/tools/enumerate.sty" 1761901070 3468 f21ceb3448a22fec45299f924e7fc48b ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "C:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/build/main.aux" 1775554006.27895 232 73e76a51b3ab6978a073af3f7982faa6 ""
-  "Preguntas/P1.tex" 1775553993.39484 883 741fdff483deb34e54e14bdee7d6f77b ""
-  "build/main.aux" 1775554006.27895 232 73e76a51b3ab6978a073af3f7982faa6 "pdflatex"
-  "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex" 1775553993.30854 1564 bc04673aeaa1bd3955f8293df070923d ""
+  "C:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/build/main.aux" 1775972028.23617 232 73e76a51b3ab6978a073af3f7982faa6 ""
+  "Preguntas/P1.tex" 1775972016.67458 838 657b57a0b98a0b25881a86fa4cbe2e80 ""
+  "build/main.aux" 1775972028.23617 232 73e76a51b3ab6978a073af3f7982faa6 "pdflatex"
+  "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/main.tex" 1775877235.33603 1565 204d3e7f4d8b8f2867e4a12641e50749 ""
   "imagenes/isotipo-uandes.png" 1775370947.03153 71686 8413c3f33fbe930283f91d84ecd48a68 ""
-  "main.aux" 1775553978.83302 232 73e76a51b3ab6978a073af3f7982faa6 ""
   (generated)
   "build/main.aux"
   "build/main.log"
