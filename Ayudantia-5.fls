@@ -1,7 +1,7 @@
 PWD C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-
 INPUT C:\Users\Matías\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\Ayudantia-5.tex
-OUTPUT C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.log
+INPUT Ayudantia-5.tex
+OUTPUT Ayudantia-5.log
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\latex\extsizes\extreport.cls
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\latex\extsizes\extreport.cls
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -82,10 +82,10 @@ INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.aux
-INPUT C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.aux
-INPUT C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.aux
-OUTPUT C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.aux
+INPUT .\Ayudantia-5.aux
+INPUT .\Ayudantia-5.aux
+INPUT Ayudantia-5.aux
+OUTPUT Ayudantia-5.aux
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -98,7 +98,7 @@ INPUT .\imagenes\isotipo-uandes.png
 INPUT .\imagenes\isotipo-uandes.png
 INPUT .\imagenes\isotipo-uandes.png
 INPUT .\imagenes\isotipo-uandes.png
-OUTPUT C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.pdf
+OUTPUT Ayudantia-5.pdf
 INPUT .\imagenes\isotipo-uandes.png
 INPUT .\imagenes\isotipo-uandes.png
 INPUT .\imagenes\isotipo-uandes.png
@@ -125,19 +125,15 @@ INPUT C:\Users\Matías\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcbx1000.tfm
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT .\Preguntas\P1-5.tex
+INPUT .\Preguntas\P1-5.tex
+INPUT Preguntas\P1-5.tex
 INPUT .\Preguntas\P2-5.tex
 INPUT .\Preguntas\P2-5.tex
 INPUT Preguntas\P2-5.tex
-INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
-INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
-INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
-INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
-INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
-INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
-INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
 INPUT C:\Users\Matías\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.aux
+INPUT Ayudantia-5.aux
 INPUT C:\Users\Matías\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx1000.pk
 INPUT C:\Users\Matías\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx1000.pk
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
@@ -148,8 +144,6 @@ INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
-INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
