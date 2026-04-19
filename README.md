@@ -1,6 +1,6 @@
 # Ayudantias-Mecanica-y-ondas-
 
-Material de ayudantias del curso Mecanica y Ondas.
+Ayudantias de Mecanica y Ondas.
 
 ## PDFs
 
