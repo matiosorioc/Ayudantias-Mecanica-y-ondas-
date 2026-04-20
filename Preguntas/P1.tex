@@ -7,7 +7,93 @@
 	\item Escriba las ecuaciones de movimiento
 	\item Calcule aceleración $a$ del centro del cilindro
 	\item Asumiendo que el cilindro parte del reposo, calcule la velocidad $v$ del cilindro cuando éste haya dado una vuelta, en función de los datos del problema
-\end{enumerate} 
+\end{enumerate}
+
+\begin{center}
+\includegraphics[width=0.5\textwidth]{imagenes/control_2024_ayudantia_3.jpg}
+\end{center}
+
+\vspace{0.2cm}
+\textbf{Solucion}
+\begin{enumerate}[a)]
+
+    \item \textbf{Condición de rodadura} 
+	Es muy importante identificar de la condición de rodadura:
+	\[
+	v_{cm}=\omega R,
+	\qquad
+	a_{cm}=\alpha R.
+	\]
+    El radio del carrete $r$ es relevante para el torque de la tensión.
+
+    (El punto superior del carrete donde actúa la tensión tiene una velocidad aún mayor $v_P=(R+r)\omega$).
+
+	\item \textbf{DCL (cilindro)}
+
+	\begin{itemize}
+		\item $T$ hacia derecha aplicado en punto superior del carrete,
+		\item $mg$ hacia abajo aplicado en centro de cilindro,
+		\item $N$ hacia arriba aplicado en punto donde cilindro toca plano,
+		\item $f$ hacia la izquierda en punto donde cilindro toca plano.
+	\end{itemize}
+
+	El DC del carrete: $a$ hacia derecha, $\alpha$ sentido horario.
+
+	\item \textbf{Usando el centro del cilindro como eje de referencia (única opción posible):}
+	\[
+	\sum F_x: \quad T-f=ma,
+	\]
+	\[
+	\sum F_y: \quad N-mg=0,
+	\]
+	\[
+	\sum \tau_{cm}\,: \quad Tr+fR=I_{cm}\alpha,
+	\]
+
+	Incluyendo la condición de rodadura, tenemos 4 ecuaciones para 4 incógnitas: $\alpha$, $a$, $f$, $N$.
+
+	\item \textbf{Combinando las tres ecuaciones para eliminar $f$ y $N$:}
+
+	\[
+	\boxed{a=\frac{TR(R+r)}{I_{cm}+mR^2}}.
+	\]
+
+
+	\item \textbf{Velocidad tras una vuelta } Opcion 1:
+	\[
+	v^2=2as.
+	\]
+	Una vuelta implica $\theta=2\pi$ y, por rodadura, $s=R\theta=2\pi R$. Entonces:
+	\[
+	v^2=2a(2\pi R)=4\pi Ra,
+	\]
+	\[
+	\boxed{v=\sqrt{4\pi Ra}}=\sqrt{\frac{4\pi T R^2 (R+r)}{I_{cm}+mR^2}}.
+	\]
+
+	Opcion 2:
+	\[
+	x(t)=\frac{1}{2}at^2=2\pi R
+	\Rightarrow
+	t^2=\frac{4\pi R}{a}
+	\Rightarrow
+	v(t)=at=\sqrt{4\pi Ra}
+	=\sqrt{\frac{4\pi R^2(R+r)T}{I_{cm}+mR^2}}.
+	\]
+
+	Opcion 3: usando el teorema de trabajo y energía cinética (ojo que la cuerda se desplaza
+	$x_P=2\pi R+2\pi r$):
+	\[
+	T(2\pi R+2\pi r)=\frac{1}{2}mv^2+\frac{1}{2}I_{cm}\left(\frac{v}{R}\right)^2.
+	\]
+	Luego:
+	\[
+	v^2=\frac{4\pi T(R+r)}{m+I_{cm}/R^2},
+	\]
+	que coincide con el resultado anterior.
+    
+
+\end{enumerate}
 
 
 

@@ -1,0 +1,88 @@
+            UNIVERSIDAD DE LOS ANDES
+            FACULTAD DE INGENIERÍA
+
+
+
+                   MECÁNICA Y ONDAS (ING2103, ING2105)
+                         AYUDANTÍA 4 - 2026-1
+AYUDANTE:       MATÍAS OSORIO (mjosorio3@miuandes.cl).
+
+
+Torque
+
+P1) [Control 3 - 2024-20] Un cilindro de masa m y radio R (momento de inercia Icm) es forzado con
+una tensión T aplicada a través de un cuerda enrollada a un carrete de radio r adosado al cilindro.
+Asumiendo que el cilindro gira sin deslizar sobre una superficie horizontal rugosa:
+
+   a)​ Escriba la condición de rodadura entre la velocidad de traslación y la velocidad de rotación.
+       Derive y deduzca la relación para las aceleraciones.
+   b)​ Realice DCL de cilindro.
+   c)​ Escriba las ecuaciones de movimiento.
+   d)​ Calcule aceleración a del centro de cilindro.
+   e)​ Asumiendo que el cilindro parte del reposo, calcule la velocidad del cilindro v cuando este haya
+       dado una vuelta, en función de los datos del problema.
+
+
+
+
+                                               1                                         fmzambrano
+P2) [Prueba 1 - 2025- 20] Una rueda de radio R, masa M y momento de inercia con respecto a centro
+                 2
+                𝑀𝑅
+de masa Icm =    2
+                     , rueda perfectamente (sin deslizamiento) sobre superficie rugosa, y es tirado por un
+cordel atado a su eje. Este cordel pasa a través de una polea de radio r y momento de inercia Io,
+haciéndola rodar (sin deslizamiento), y en su otro extremo tiene un cilindro de masa m.
+
+   a)​ Encuentre dos relaciones entre vcm, la velocidad angular de la rueda ω, y la velocidad angular
+       de la polea ω1.
+   b)​ Dibuje los DCL de la rueda, de la polea y del cilindro.
+   c)​ Escriba las ecuaciones de movimiento relevantes.
+   d)​ Calcule la aceleración del centro de la rueda a.
+
+
+
+
+                                                  2                                         fmzambrano
+P3) [Prueba 1 - 2024- 10] Considere un carrete de hilo que rueda sobre plano rugoso inclinado en
+ángulo ϕ. El carrete tiene masa M, radio R1 y momento de inercia respecto a su centro I1. El hilo sale
+del carrete paralelo al plano, pasa sin deslizar por la polea de masa M, radio R2 y momento de inercia
+con respecto a su centro I2, y sostiene a una masa colgante m. Asuma que m baja y que el carrete se
+mueve hacia la derecha.
+
+
+
+
+   a)​ Deduzca relaciones entre la aceleración del centro del carrete a1, las aceleraciones angulares del
+       carrete α1 y de la polea α2, y la aceleración con que el cilindro baja am.
+   b)​ Dibuje DCL´s para cada uno de los tres cuerpos.
+   c)​ Escriba las ecuaciones de fuerzas y torques (relevantes) de cada uno de los tres cuerpos.
+   d)​ Calcule las magnitudes de las tensiones de los dos tramos del hilo, y la aceleración am.
+
+
+
+
+                                                3                                          fmzambrano
+P4 ) [Prueba 2 - 2025-10] El siguiente objeto está formado por una barra homogénea y delgada de
+largo L y masa M, que tiene soldado en su extremo derecho un pequeño cuerpo, también de valor M,
+el cual puede considerarse como si fuese puntual. El objeto compuesto está sostenido horizontalmente
+por dos cuerdas ideales que están tensas de forma vertical y fijas al techo, como se muestra en la figura.
+
+
+
+
+    a)​ Calcule a qué distancia se ubica el centro de masa del objeto compuesto (barra + masa
+        puntual), medida desde el extremo A. Recuerde que Σ𝑖𝑚𝑖𝑥𝑖/Σ𝑖𝑚𝑖.
+    b)​ Usando el teorema de Steiner, obtenga el momento de inercia total con respecto al centro de
+        masa del objeto compuesto.
+    c)​ Ahora suponga que la cuerda derecha se corta. Use las ecuaciones de fuerzas y de torques con
+        respecto al centro de masa para calcular la aceleración angular y tensión de la cuerda izquierda
+        justo en el instante en que el extremo B queda libre. Entregue su respuesta primero en términos
+                                                                                               2
+        algebraicos y después evalúe su respuesta con M = 50.0 kg, L = 2.50 m y g = 9.81 m/𝑠 .
+
+
+
+
+                                                 4                                          fmzambrano
+

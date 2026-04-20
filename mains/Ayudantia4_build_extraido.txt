@@ -1,0 +1,30 @@
+                       UNIVERSIDAD DE LOS ANDES
+                       FACULTAD DE INGENIERÍA
+
+
+                                      MECANICA Y ONDAS (ING2103, ING2105)
+                                           AYUDANTÍA N°4 - 2026-10
+
+   AYUDANTE: MATÍAS OSORIO (mjosorio3@miuandes.cl ).
+
+
+   Torque y Dinámica de Rodadura
+
+    P1) [Control 3 - 2024-20] Un cilindro de masa m y radio R (momento de inercia Icm ) es forzado con una tensión T aplicada
+a través de una cuerda enrollada a un carrete de radio r adosado al cilindro. Asumiendo que el cilindro gira sin deslizar sobre
+una superficie horizontal rugosa:
+
+a) Escriba la condición de rodadura entre la velocidad de traslación y la velocidad de rotación. Derive y deduzca la relación para
+   las aceleraciones.
+b) Realice DCL del cilindro
+c) Escriba las ecuaciones de movimiento
+
+d) Calcule aceleración a del centro del cilindro
+e) Asumiendo que el cilindro parte del reposo, calcule la velocidad v del cilindro cuando éste haya dado una vuelta, en función
+   de los datos del problema
+
+
+
+
+                                                                  1                                                        fzambrano
+
