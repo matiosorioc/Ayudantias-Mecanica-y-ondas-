@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.19)  20 APR 2026 01:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.19)  20 APR 2026 01:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -330,19 +330,19 @@ Overfull \hbox (41.23505pt too wide) in paragraph at lines 33--42
 $[]$ $[]$ 
  []
 
-(Preguntas/P2-5.tex
+(Preguntas/P1-5.tex
 <imagenes/pregunta 1 ayudantia 5.PNG, id=2, 225.09094pt x 234.1247pt>
 File: imagenes/pregunta 1 ayudantia 5.PNG Graphic file (type png)
 <use imagenes/pregunta 1 ayudantia 5.PNG>
 Package pdftex.def Info: imagenes/pregunta 1 ayudantia 5.PNG  used on input line 11.
 (pdftex.def)             Requested size: 278.69475pt x 289.91507pt.
- [1
+) [1
 
-{C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes/isotipo-uandes.png> <./imagenes/pregunta 1 ayudantia 5.PNG>]
+{C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes/isotipo-uandes.png> <./imagenes/pregunta 1 ayudantia 5.PNG>] (Preguntas/P2-5.tex
 <imagenes/a5p2.PNG, id=17, 376.40625pt x 225.09094pt>
 File: imagenes/a5p2.PNG Graphic file (type png)
 <use imagenes/a5p2.PNG>
-Package pdftex.def Info: imagenes/a5p2.PNG  used on input line 24.
+Package pdftex.def Info: imagenes/a5p2.PNG  used on input line 11.
 (pdftex.def)             Requested size: 418.04213pt x 250.00844pt.
 ) [2 <./imagenes/a5p2.PNG>] (C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.aux
 LaTeX Info: Redefining \. on input line 8.
@@ -354,13 +354,13 @@ L3 programming layer <2026-03-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5511 strings out of 467690
- 90095 string characters out of 5413998
+ 5517 strings out of 467690
+ 90268 string characters out of 5413998
  509834 words of memory out of 5000000
- 34495 multiletter control sequences out of 15000+600000
+ 34498 multiletter control sequences out of 15000+600000
  631262 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,592b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,549b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Matías\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.pdf (2 pages, 234894 bytes).
 PDF statistics:

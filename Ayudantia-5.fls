@@ -125,9 +125,9 @@ INPUT C:\Users\Matías\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcbx1000.tfm
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT .\Preguntas\P2-5.tex
-INPUT .\Preguntas\P2-5.tex
-INPUT Preguntas\P2-5.tex
+INPUT .\Preguntas\P1-5.tex
+INPUT .\Preguntas\P1-5.tex
+INPUT Preguntas\P1-5.tex
 INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
 INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
 INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
@@ -137,6 +137,9 @@ INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
 INPUT .\imagenes\pregunta 1 ayudantia 5.PNG
 INPUT C:\Users\Matías\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
 INPUT C:\Users\Matías\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\Preguntas\P2-5.tex
+INPUT .\Preguntas\P2-5.tex
+INPUT Preguntas\P2-5.tex
 INPUT .\imagenes\a5p2.PNG
 INPUT .\imagenes\a5p2.PNG
 INPUT .\imagenes\a5p2.PNG
