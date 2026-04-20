@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.5)  18 APR 2026 20:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.19)  20 APR 2026 01:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./Ayudantia-5.tex
 (Ayudantia-5.tex
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-24>
+L3 programming layer <2026-03-20>
 
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extreport.cl
 s
@@ -20,7 +20,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
-\big@size=\dimen148
+\big@size=\dimen150
 )
 \c@part=\count275
 \c@chapter=\count276
@@ -33,7 +33,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \c@table=\count283
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen149
+\bibindent=\dimen151
 )
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
@@ -41,24 +41,24 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@posthook=\toks18
 )
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
-TeX and XeLaTeX
+Package: babel 2026/03/24 v26.5 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
 \babel@savecnt=\count284
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2068.
+ne 2078.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2070.
+ne 2080.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2072.
+e 2082.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2073.
+e 2083.
 LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2074.
+on input line 2084.
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2076.
+on input line 2086.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2101.
-\U@D=\dimen150
+on input line 2111.
+\U@D=\dimen152
 \l@unhyphenated=\language79
 
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
@@ -66,7 +66,7 @@ on input line 2101.
 \bbl@dirlevel=\count285
 Package babel Info: Configuration files are deprecated, as
 (babel)             they can break document portability.
-(babel)             Reported on input line 4196.
+(babel)             Reported on input line 4206.
 *************************************
 * Local config file bblopts.cfg used
 *
@@ -77,7 +77,7 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\bab
 el-spanish.tex)
 Package babel Info: Importing font and identification data for spanish
-(babel)             from babel-es.ini. Reported on input line 4320.
+(babel)             from babel-es.ini. Reported on input line 4330.
 
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish
 .ldf
@@ -115,8 +115,8 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
 ef
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen151
-\Gin@req@width=\dimen152
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
 )
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
@@ -129,11 +129,11 @@ Package: amstext 2024/11/17 v2.01 AMS text
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
-\ex@=\dimen153
+\ex@=\dimen155
 ))
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen154
+\pmbraise@=\dimen156
 )
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
@@ -155,7 +155,7 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen155
+\big@size=\dimen157
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
 \macc@depth=\count292
@@ -173,12 +173,12 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \column@=\count297
 \maxfields@=\count298
 \andhelp@=\toks23
-\eqnshift@=\dimen156
-\alignsep@=\dimen157
-\tagshift@=\dimen158
-\tagwidth@=\dimen159
-\totwidth@=\dimen160
-\lineht@=\dimen161
+\eqnshift@=\dimen158
+\alignsep@=\dimen159
+\tagshift@=\dimen160
+\tagwidth@=\dimen161
+\totwidth@=\dimen162
+\lineht@=\dimen163
 \@envbody=\toks24
 \multlinegap=\skip52
 \multlinetaggap=\skip53
@@ -203,10 +203,10 @@ Package: anysize 1994/08/13 setting margin sizes
 document style option `anysize' loaded
 Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
 Version 1.0, Aug 13, 1994
-\@Leftmargin=\dimen162
-\@Rightmargin=\dimen163
-\@Topmargin=\dimen164
-\@Bottommargin=\dimen165
+\@Leftmargin=\dimen164
+\@Rightmargin=\dimen165
+\@Topmargin=\dimen166
+\@Bottommargin=\dimen167
 ) (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
@@ -240,9 +240,9 @@ Package: amsthm 2020/05/29 v2.20.6
 \dth@everypar=\toks31
 ) (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen166
+\col@sep=\dimen168
 \ar@mcellbox=\box55
-\extrarowheight=\dimen167
+\extrarowheight=\dimen169
 \NC@list=\toks32
 \extratabsurround=\skip57
 \backup@length=\skip58
@@ -261,10 +261,10 @@ Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip59
 \multirow@cntb=\count299
 \multirow@dima=\skip60
-\bigstrutjot=\dimen168
+\bigstrutjot=\dimen170
 ) (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
-\wrapoverhang=\dimen169
-\WF@size=\dimen170
+\wrapoverhang=\dimen171
+\WF@size=\dimen172
 \c@WF@wrappedlines=\count300
 \WF@box=\box57
 \WF@everypar=\toks34
@@ -302,7 +302,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 )
 (C:\Users\Matías\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count302
 ) (Ayudantia-5.aux
 LaTeX Info: Redefining \. on input line 8.
@@ -333,13 +333,13 @@ LaTeX Info: Redefining \% on input line 28.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count303
-\scratchdimen=\dimen171
+\scratchdimen=\dimen173
 \scratchbox=\box59
 \nofMPsegments=\count304
 \nofMParguments=\count305
 \everyMPshowfont=\toks37
 \MPscratchCnt=\count306
-\MPscratchDim=\dimen172
+\MPscratchDim=\dimen174
 \MPnumerator=\count307
 \makeMPintoPDFobject=\count308
 \everyMPtoPDFconversion=\toks38
@@ -386,38 +386,52 @@ Overfull \hbox (41.23505pt too wide) in paragraph at lines 33--42
 $[]$ $[]$ 
  []
 
-(Preguntas/P1-5.tex) (Preguntas/P2-5.tex) [1
+(Preguntas/P2-5.tex
+<imagenes/pregunta 1 ayudantia 5.PNG, id=2, 225.09094pt x 234.1247pt>
+File: imagenes/pregunta 1 ayudantia 5.PNG Graphic file (type png)
+<use imagenes/pregunta 1 ayudantia 5.PNG>
+Package pdftex.def Info: imagenes/pregunta 1 ayudantia 5.PNG  used on input lin
+e 11.
+(pdftex.def)             Requested size: 278.69475pt x 289.91507pt.
+ [1
 
 {C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes
-/isotipo-uandes.png>]
-(Ayudantia-5.aux
+/isotipo-uandes.png> <./imagenes/pregunta 1 ayudantia 5.PNG>]
+<imagenes/a5p2.PNG, id=17, 376.40625pt x 225.09094pt>
+File: imagenes/a5p2.PNG Graphic file (type png)
+<use imagenes/a5p2.PNG>
+Package pdftex.def Info: imagenes/a5p2.PNG  used on input line 24.
+(pdftex.def)             Requested size: 418.04213pt x 250.00844pt.
+) [2 <./imagenes/a5p2.PNG>] (Ayudantia-5.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
  ***********
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-24>
+L3 programming layer <2026-03-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5496 strings out of 467870
- 89340 string characters out of 5417388
- 506384 words of memory out of 5000000
- 34298 multiletter control sequences out of 15000+600000
+ 5509 strings out of 467690
+ 89675 string characters out of 5413998
+ 509834 words of memory out of 5000000
+ 34495 multiletter control sequences out of 15000+600000
  631262 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,271b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,540b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Matías\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 bx1000.pk><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Matías/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Matías/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Matías/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Ayudantia-5.pdf (1 page, 144295 bytes).
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Matías/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users
+/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pf
+b>
+Output written on Ayudantia-5.pdf (2 pages, 234894 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
