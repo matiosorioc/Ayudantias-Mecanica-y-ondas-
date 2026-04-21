@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.19)  20 APR 2026 01:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.19)  21 APR 2026 00:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -339,12 +339,12 @@ Package pdftex.def Info: imagenes/pregunta 1 ayudantia 5.PNG  used on input line
 ) [1
 
 {C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes/isotipo-uandes.png> <./imagenes/pregunta 1 ayudantia 5.PNG>] (Preguntas/P2-5.tex
-<imagenes/a5p2.PNG, id=17, 376.40625pt x 225.09094pt>
-File: imagenes/a5p2.PNG Graphic file (type png)
-<use imagenes/a5p2.PNG>
-Package pdftex.def Info: imagenes/a5p2.PNG  used on input line 11.
-(pdftex.def)             Requested size: 418.04213pt x 250.00844pt.
-) [2 <./imagenes/a5p2.PNG>] (C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.aux
+<imagenes/ejp2a5.PNG, id=17, 206.27063pt x 252.945pt>
+File: imagenes/ejp2a5.PNG Graphic file (type png)
+<use imagenes/ejp2a5.PNG>
+Package pdftex.def Info: imagenes/ejp2a5.PNG  used on input line 9.
+(pdftex.def)             Requested size: 250.82358pt x 307.58508pt.
+) [2 <./imagenes/ejp2a5.PNG>] (C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -354,17 +354,17 @@ L3 programming layer <2026-03-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5517 strings out of 467690
- 90268 string characters out of 5413998
+ 5518 strings out of 467690
+ 90289 string characters out of 5413998
  509834 words of memory out of 5000000
- 34498 multiletter control sequences out of 15000+600000
+ 34499 multiletter control sequences out of 15000+600000
  631262 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,549b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Matías\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.pdf (2 pages, 234894 bytes).
+ 57i,11n,65p,500b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Matías\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on C:\Users\Matías\Desktop\Ayudantias-Mecanica-y-ondas-\build\Ayudantia-5.pdf (2 pages, 246166 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
