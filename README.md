@@ -6,6 +6,7 @@ Ayudantias de Mecanica y Ondas.
 
 - [Ayudantia 4](build/Ayudantia-4.pdf)
 - [Ayudantia 5](build/Ayudantia-5.pdf)
+- [Ayudantia 6](build/Ayudantia-6.pdf)
 
 ## Como agregar un PDF al README
 
