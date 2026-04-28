@@ -25,6 +25,3 @@ Ayudantias de Mecanica y Ondas.
 
 ## Plantilla rapida para la proxima
 
-Copia y cambia solo el numero:
-
-- [Ayudantia 6](build/Ayudantia-6.pdf)
