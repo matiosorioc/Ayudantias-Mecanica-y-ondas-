@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1777324289.29981 "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/Ayudantia-6.tex" "build/Ayudantia-6.pdf" "Ayudantia-6" 1777324292.79989 0
+["pdflatex"] 1777390541.79772 "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/Ayudantia-6.tex" "build/Ayudantia-6.pdf" "Ayudantia-6" 1777390545.73325 0
   "C:/Users/Matías/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776649274.11607 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Matías/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1775442656.60219 12124 0566993109f2a31e4e9ede5bcefb885d ""
   "C:/Users/Matías/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1775442650.50353 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -22,6 +22,7 @@
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
+  "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -67,13 +68,14 @@
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/latex/tools/enumerate.sty" 1761901070 3468 f21ceb3448a22fec45299f924e7fc48b ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Matías/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "C:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/build/Ayudantia-6.aux" 1777324292.45026 232 e4374e8bf5cbf47e856857f0b4de3017 ""
+  "C:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/build/Ayudantia-6.aux" 1777390545.34132 232 e4374e8bf5cbf47e856857f0b4de3017 ""
   "Preguntas/P1-6.tex" 1777324287.10138 1056 939a0b076214840a8f3342023e368159 ""
-  "Preguntas/P2-6.tex" 1777323883.68339 1185 e245a9a08ad57fc24824fb55352e554b ""
-  "Preguntas/P4-6.tex" 1777323938.94489 14 be4018606a5bd810b408d5ddfe16af7f ""
-  "build/Ayudantia-6.aux" 1777324292.45026 232 e4374e8bf5cbf47e856857f0b4de3017 "pdflatex"
+  "Preguntas/P2-6.tex" 1777389706.43233 1874 3f923632c2d414fde80b39a369d26198 ""
+  "Preguntas/P4-6.tex" 1777390541.90882 708 300617cd5a64dd9dac5a1fab5a256c48 ""
+  "build/Ayudantia-6.aux" 1777390545.34132 232 e4374e8bf5cbf47e856857f0b4de3017 "pdflatex"
   "c:/Users/Matías/Desktop/Ayudantias-Mecanica-y-ondas-/Ayudantia-6.tex" 1777324023.23472 1548 e82a705cd6714ff75f004887b1dc9048 ""
   "imagenes/P1a6.PNG" 1777314455.70289 67509 9d2bfe11aafd995455735401d3cf6646 ""
+  "imagenes/imagenp5a6.PNG" 1777388882.87184 7752 05ffd96ac1ee36f47a2bf2050aa7b607 ""
   "imagenes/isotipo-uandes.png" 1775370947.03153 71686 8413c3f33fbe930283f91d84ecd48a68 ""
   (generated)
   "build/Ayudantia-6.aux"
